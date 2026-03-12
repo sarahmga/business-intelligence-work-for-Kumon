@@ -1,13 +1,83 @@
-# business-intelligence-work-for-Kumon
-This repository contains the main project developed for Kumon - Unidade Funcionários Aimorés
+# Projeto de Business Intelligence para o Kumon – Unidade Funcionários Aimorés
 
-RESUMO:
+Este repositório contém o projeto principal desenvolvido para a unidade **Kumon Funcionários Aimorés**, com foco na aplicação de técnicas de Ciência de Dados e Business Intelligence para apoiar a gestão administrativa e financeira da unidade.
 
-O presente projeto tem como objetivo aplicar técnicas de ciência de dados e análise exploratória para apoiar a gestão administrativa da unidade Kumon Funcionários Aimorés. A proposta busca compreender o comportamento financeiro e o perfil dos alunos matriculados, especialmente em relação ao pagamento de mensalidades, atrasos e cancelamentos de matrícula. Nesse contexto, um fator relevante é a política institucional de não exigir contratos de fidelidade, oferecendo liberdade para que os alunos permaneçam no método pelo tempo que desejarem, embora exista um contrato de mensalidade com regras administrativas, como aviso prévio para cancelamento e ciclo de cobrança iniciado no dia 20 de cada mês. A falta de compreensão dessas regras pode gerar cancelamentos inesperados e impactos na organização financeira da unidade. Assim, o projeto pretende analisar dados administrativos para identificar padrões relacionados à inadimplência e evasão, gerando insights que auxiliem na criação de estratégias para reduzir atrasos, melhorar a retenção de alunos e apoiar a tomada de decisões por meio de dashboards e de um Data Warehouse. 
-Palavras-chave: Ciência de Dados; Análise Exploratória de Dados; Inadimplência; Evasão de Alunos; Business Intelligence.
+---
 
+## Visão Geral do Projeto
 
-ABSTRACT:
+Este projeto utiliza técnicas de análise exploratória e modelagem de dados para compreender padrões relacionados ao comportamento financeiro dos alunos, incluindo pagamentos de mensalidades, atrasos e cancelamentos de matrícula.
 
-This project aims to apply data science techniques and exploratory data analysis to support the administrative management of the Kumon Funcionários Aimorés unit. The proposal seeks to better understand the financial behavior and the profile of enrolled students, especially regarding tuition payments, delays, and enrollment cancellations. In this context, a relevant factor is the institutional policy of not requiring loyalty contracts, giving students the freedom to remain in the method for as long as they wish, although there is a monthly payment contract that establishes administrative rules, such as prior notice for cancellation and a billing cycle that begins on the 20th of each month. The lack of understanding of these rules may lead to unexpected cancellations and impacts on the financial organization of the unit. Thus, the project intends to analyze administrative data to identify patterns related to delinquency and student dropout, generating insights that support the creation of strategies to reduce payment delays, improve student retention, and assist decision-making through dashboards and a Data Warehouse.
-Keywords: Data Science; Exploratory Data Analysis; Delinquency; Student Dropout; Business Intelligence.
+A partir da análise desses dados, foram desenvolvidos insights e visualizações que auxiliam na tomada de decisões administrativas, visando melhorar a organização financeira e apoiar estratégias de retenção de alunos.
+
+---
+
+## Resumo
+
+O projeto aplica ciência de dados para apoiar a gestão da unidade, analisando o comportamento financeiro e o perfil dos alunos. Um fator relevante é a política de não exigência de contratos de fidelidade, o que oferece liberdade aos alunos, mas exige uma gestão rigorosa do ciclo de cobrança (iniciado no dia 20 de cada mês).
+
+A análise identifica padrões de inadimplência e evasão, gerando estratégias para reduzir atrasos e melhorar a retenção por meio de dashboards e um Data Warehouse.
+
+**Palavras-chave:** Ciência de Dados; Análise Exploratória de Dados; Inadimplência; Evasão de Alunos; Business Intelligence.
+
+---
+
+## Abstract
+
+This project aims to apply data science techniques and exploratory data analysis to support the administrative management of the Kumon Funcionários Aimorés unit. It analyzes delinquency and student dropout patterns to support strategies for financial stability and decision-making through dashboards and a Data Warehouse.
+
+**Keywords:** Data Science; Exploratory Data Analysis; Delinquency; Student Dropout; Business Intelligence.
+
+---
+
+## Objetivos do Projeto
+
+* **Analisar** dados administrativos da unidade Kumon.
+* **Identificar** padrões de inadimplência e evasão de alunos.
+* **Compreender** o comportamento financeiro relacionado às mensalidades.
+* **Desenvolver** dashboards para apoio à tomada de decisão.
+* **Estruturar** um Data Warehouse para organização dos dados.
+
+---
+
+## Tecnologias Utilizadas
+
+* **Linguagem:** Python
+* **Bibliotecas:** Pandas, NumPy, Matplotlib/Seaborn
+* **Banco de Dados:** SQL
+* **BI:** Ferramentas de Business Intelligence (Power BI/Tableau)
+* **Metodologia:** Análise Exploratória de Dados (EDA)
+
+---
+
+## Dashboards
+
+*(Espaço reservado para inclusão de imagens ou links dos dashboards gerados pelo projeto)*
+
+---
+
+## Estrutura do Repositório
+
+* **business-intelligence-kumon**
+    * **data/**
+        * `raw/` — Dados brutos utilizados no projeto
+        * `processed/` — Dados tratados e preparados para análise
+    * **notebooks/** — Análises exploratórias e experimentos (Jupyter Notebooks)
+    * **scripts/** — Scripts Python para processamento e automação
+    * **dashboards/** — Arquivos de dashboards e visualizações de BI
+    * **images/** — Gráficos e imagens utilizados na documentação
+    * **docs/** — Documentação adicional e relatórios do projeto
+    * **README.md** — Documentação principal do repositório
+
+---
+
+## Autores
+
+Projeto desenvolvido por:
+
+* Beatriz Azevedo
+* Guilherme Amintas
+* Gustavo Horta
+* Izabela Dobscha
+* Mariana Andrade
+* Sarah Mariana
