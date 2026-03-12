@@ -1,10 +1,13 @@
 # business-intelligence-work-for-Kumon
 This repository contains the main project developed for Kumon - Unidade Funcionários Aimorés
 
-RESUMO
+RESUMO:
+
 O presente projeto tem como objetivo aplicar técnicas de ciência de dados e análise exploratória para apoiar a gestão administrativa da unidade Kumon Funcionários Aimorés. A proposta busca compreender o comportamento financeiro e o perfil dos alunos matriculados, especialmente em relação ao pagamento de mensalidades, atrasos e cancelamentos de matrícula. Nesse contexto, um fator relevante é a política institucional de não exigir contratos de fidelidade, oferecendo liberdade para que os alunos permaneçam no método pelo tempo que desejarem, embora exista um contrato de mensalidade com regras administrativas, como aviso prévio para cancelamento e ciclo de cobrança iniciado no dia 20 de cada mês. A falta de compreensão dessas regras pode gerar cancelamentos inesperados e impactos na organização financeira da unidade. Assim, o projeto pretende analisar dados administrativos para identificar padrões relacionados à inadimplência e evasão, gerando insights que auxiliem na criação de estratégias para reduzir atrasos, melhorar a retenção de alunos e apoiar a tomada de decisões por meio de dashboards e de um Data Warehouse. 
 Palavras-chave: Ciência de Dados; Análise Exploratória de Dados; Inadimplência; Evasão de Alunos; Business Intelligence.
 
-ABSTRACT
+
+ABSTRACT:
+
 This project aims to apply data science techniques and exploratory data analysis to support the administrative management of the Kumon Funcionários Aimorés unit. The proposal seeks to better understand the financial behavior and the profile of enrolled students, especially regarding tuition payments, delays, and enrollment cancellations. In this context, a relevant factor is the institutional policy of not requiring loyalty contracts, giving students the freedom to remain in the method for as long as they wish, although there is a monthly payment contract that establishes administrative rules, such as prior notice for cancellation and a billing cycle that begins on the 20th of each month. The lack of understanding of these rules may lead to unexpected cancellations and impacts on the financial organization of the unit. Thus, the project intends to analyze administrative data to identify patterns related to delinquency and student dropout, generating insights that support the creation of strategies to reduce payment delays, improve student retention, and assist decision-making through dashboards and a Data Warehouse.
 Keywords: Data Science; Exploratory Data Analysis; Delinquency; Student Dropout; Business Intelligence.
